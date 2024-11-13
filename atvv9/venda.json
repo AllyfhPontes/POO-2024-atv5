@@ -1,0 +1,11 @@
+{
+    "dataVenda": "12/20/2024",
+    "produtos": [
+        {
+            "nome": "harry potter ",
+            "preco": 15.0,
+            "quantidade": 5
+        }
+    ],
+    "total": 75.0
+}
